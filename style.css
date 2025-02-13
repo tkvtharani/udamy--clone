@@ -122,11 +122,11 @@ color:#ff00bf;
 
 .footer__one{
     display:flex;
-    gap: 10px; 
+    gap: 20px; 
 }
 
 .footer__one p{
-    margin: 20px;
+    margin: 10px;
 }
 
 
